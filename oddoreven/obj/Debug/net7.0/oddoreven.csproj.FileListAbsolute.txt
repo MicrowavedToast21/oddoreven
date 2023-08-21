@@ -1,0 +1,15 @@
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\obj\Debug\net7.0\oddoreven.csproj.AssemblyReference.cache
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\obj\Debug\net7.0\oddoreven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\obj\Debug\net7.0\oddoreven.AssemblyInfoInputs.cache
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\obj\Debug\net7.0\oddoreven.AssemblyInfo.cs
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\obj\Debug\net7.0\oddoreven.csproj.CoreCompileInputs.cache
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\bin\Debug\net7.0\oddoreven.exe
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\bin\Debug\net7.0\oddoreven.deps.json
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\bin\Debug\net7.0\oddoreven.runtimeconfig.json
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\bin\Debug\net7.0\oddoreven.dll
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\bin\Debug\net7.0\oddoreven.pdb
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\obj\Debug\net7.0\oddoreven.dll
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\obj\Debug\net7.0\refint\oddoreven.dll
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\obj\Debug\net7.0\oddoreven.pdb
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\obj\Debug\net7.0\oddoreven.genruntimeconfig.cache
+C:\Users\varsa\OneDrive\Escritorio\oddoreven\obj\Debug\net7.0\ref\oddoreven.dll
